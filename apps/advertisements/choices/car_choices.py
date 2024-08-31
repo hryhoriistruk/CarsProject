@@ -46,7 +46,7 @@ class Region(models.TextChoices):
     Khmelnytskyi = "Khmelnytskyi"
     Cherkasy = "Cherkasy"
     Chernivtsi = "Chernivtsi"
-    Chernihiv = "Chernihiv"m
+    Chernihiv = "Chernihiv"
 
 
 class TypePrice(models.TextChoices):
