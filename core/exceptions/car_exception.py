@@ -1,4 +1,4 @@
-class PremiumException(Exception):.
+class PremiumException(Exception):
     pass
 
 
