@@ -1,4 +1,4 @@
-from django_filters import rest_framework as filter.
+from django_filters import rest_framework as filter
 
 from apps.users.serializers import UserModelFunction
 
