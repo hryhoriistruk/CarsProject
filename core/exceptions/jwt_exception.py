@@ -1,4 +1,4 @@
-class JWTException(Exception):
+class JWTException(Exception):.
     pass
 
 
