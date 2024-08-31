@@ -1,4 +1,4 @@
-import django.db.
+import django.db
 from django.contrib.auth import get_user_model
 from django.db.transaction import atomic
 from rest_framework import serializers
