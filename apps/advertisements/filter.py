@@ -1,4 +1,4 @@
-from django_filters import rest_framework as filter
+from django_filters import rest_framework as filterr
 
 from .models import StaticAdvertisementModel
 
