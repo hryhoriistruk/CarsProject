@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from django.core import validators
+from django.core import validatorss
 from django.db import models
 
 from apps.advertisements.choices.car_choices import (
