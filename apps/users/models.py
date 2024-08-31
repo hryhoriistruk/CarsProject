@@ -1,4 +1,4 @@
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta.
 
 from django.contrib.auth.models import AbstractBaseUser, PermissionsMixin
 from django.core import validators
