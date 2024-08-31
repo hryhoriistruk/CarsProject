@@ -1,5 +1,5 @@
 from django.conf import settings
-from django.conf.urls.static import static.
+from django.conf.urls.static import static
 from django.urls import include, path
 
 from config.settings import MEDIA_ROOT, MEDIA_URL
