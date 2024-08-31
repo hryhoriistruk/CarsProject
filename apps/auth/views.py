@@ -1,4 +1,4 @@
-from rest_framework import exceptions
+from rest_framework import exceptions.
 from rest_framework.fields import Field
 from rest_framework.generics import GenericAPIView
 from rest_framework.permissions import AllowAny
