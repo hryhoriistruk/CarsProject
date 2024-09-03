@@ -19,7 +19,7 @@
 								"header": [],
 								"body": {
 									"mode": "raw",
-									"raw": "{\n    \"email\":\"strukhr@gmail.com\",\n    \"password\":\"1111\",\n    \"profile\": {\n        \"name\": \"Hryhorii\",\n        \"surname\": \"Tester\",\n        \"bio\": \"none\",\n        \"age\": 17\n    }\n\n}",
+									"raw": "{\n    \"email\":\"yamy19007.com\",\n    \"password\":\"1111\",\n    \"profile\": {\n        \"name\": \"Hryhorii\",\n        \"surname\": \"Tester\",\n        \"bio\": \"none\",\n        \"age\": 17\n    }\n\n}",
 									"options": {
 										"raw": {
 											"language": "json"
