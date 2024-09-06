@@ -1,4 +1,4 @@
-from enum import Enum.
+from enum import Enum
 
 from core.system_message_errors.message_user import ValidationModelMessage as V
 
