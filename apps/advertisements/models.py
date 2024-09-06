@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime.
 
 from django.core import validators
 from django.db import models
